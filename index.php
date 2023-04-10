@@ -7,7 +7,7 @@
     <title>Generate URL</title>
 </head>
 <body>
-    <h1>URL has been generated</h1>
+<!--  todo    -->
 </body>
 </html>
 
@@ -18,4 +18,5 @@
         fwrite($file,"toko-proyek.org/upload/gambar/".$i.".jpg"."\n");
     }
     fclose($file);
+    echo "file TXT berhasil di-generate";
 ?>
