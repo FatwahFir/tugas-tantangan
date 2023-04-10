@@ -1,6 +1,7 @@
 Spesifikasi bahasa dan software yang digunakan
 - PHP 8.1
 - XAMPP v3.3.0
+
 Cara Menjalankan Program
 - Pertama clone atau download zip program
 - Jika Anda memilih untuk mendownload zip program, extract file zip program kemudian pindahkan folder hasil extract ke folder htdocs yang ada pada folder xampp
